@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|c:\\users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|solutionrelative:ai-wife2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\vscodeintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|solutionrelative:ai-wife2\\vscodeintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|solutionrelative:ai-wife2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|c:\\users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|solutionrelative:ai-wife2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|c:\\users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}|ai-wife2\\ai-wife2.csproj|solutionrelative:ai-wife2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s-rin\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ai-wife2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\App.xaml.cs",
+              "RelativeToolTip": "ai-wife2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T05:02:25.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\App.xaml",
+              "RelativeDocumentMoniker": "ai-wife2\\App.xaml",
+              "ToolTip": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\App.xaml",
+              "RelativeToolTip": "ai-wife2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-09T05:02:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ai-wife2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ai-wife2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAMwCEBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:15:23.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VscodeIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\VscodeIntegration.cs",
+              "RelativeDocumentMoniker": "ai-wife2\\VscodeIntegration.cs",
+              "ToolTip": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\VscodeIntegration.cs",
+              "RelativeToolTip": "ai-wife2\\VscodeIntegration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:56:10.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ai-wife2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\s-rin\\source\\repos\\ai-wife2\\ai-wife2\\MainWindow.xaml",
+              "RelativeToolTip": "ai-wife2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T06:15:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\s-rin\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\s-rin\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [\u8AAD\u307F\u53D6\u308A\u5C02\u7528]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [\u8AAD\u307F\u53D6\u308A\u5C02\u7528]",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwHcAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:01:47.031Z",
+              "EditorCaption": " [\u8AAD\u307F\u53D6\u308A\u5C02\u7528]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

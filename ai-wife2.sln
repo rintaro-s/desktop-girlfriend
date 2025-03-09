@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ai-wife2", "ai-wife2\ai-wife2.csproj", "{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F72D16-578B-4B12-9C09-C5FA4A22D0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F99EE6-2270-42A3-A95E-C6CEEDC00AC0}
+	EndGlobalSection
+EndGlobal
