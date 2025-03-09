@@ -35,6 +35,8 @@ namespace ai_wife2
             InitializeComponent();
             SetImage(imagePath);
 
+            this.Topmost = true;
+
             // ランダム待機アニメーション用のタイマー
             idleTimer = new DispatcherTimer();
             idleTimer.Interval = TimeSpan.FromMilliseconds(idleChangeInterval);
@@ -159,7 +161,7 @@ namespace ai_wife2
                 model = "llama-3-elyza-jp-8b",
                 messages = new[]
                 {
-                    new { role = "system", content = "あなたは妹です。ユーザーからの文章を、妹のような口調で返信して。プログラミングを頼まれた場合は、pythonで書いて。簡潔に話して。感動詞をつけたり、たまに冗談も言ったりして自然な会話にして。" },
+                    new { role = "system", content = "あなたはユーザーの妹です。ユーザーからの文章を、かわいい妹のような口調で返信して。プログラミングを頼まれた場合は、pythonで書いて。簡潔に話して。" },
                     new { role = "user", content = text }
                 },
                 temperature = 0.7,
